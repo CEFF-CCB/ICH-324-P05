@@ -1,0 +1,11 @@
+{
+  "name": "ich-324-p04",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "author": "CP-CCB",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
