@@ -9,6 +9,13 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^30.5.2"
+    "jest": "^30.5.2",
+    "jest-junit": "^17.0.0"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      "jest-junit"
+    ]
   }
 }
